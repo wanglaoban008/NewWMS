@@ -158,7 +158,7 @@ public class UrlAuthorityHandler {
      * 导出菜单权限信息到文件中
      *
      * @param searchType 查询类型
-     * @param keyWord    查询关键字  aa
+     * @param keyWord    查询关键字
      * @param response   HttpServletResponse
      */
     @SuppressWarnings("unchecked")
